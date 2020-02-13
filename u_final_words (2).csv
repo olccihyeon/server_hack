@@ -1,0 +1,603 @@
+,Unnamed: 0,word,meaning,der
+0,0,_,_,_
+1,1,claim,v. 요청하다 n. 청구; 주장,claim claims claiming claimed
+2,2,committed,adj. 헌신적인,commit commits committing committed
+3,3,consistency,"n. 일관성, 한결같음",consistency consistencies consistencying consistencied
+4,4,cover,v. 다루다; 보장하다,cover covers covering covered
+5,5,coverage,n. 범위; 보상,coverage coverages coveraging coveraged
+6,6,credit,"n. 신용판매, 신용 v. 입금하다",credit credits crediting credited
+7,7,defect,n. 결함,defect defects defecting defected
+8,8,defective,adj. 결함 있는,defective defectives defectiving defectived
+9,9,demand,v. 요구하다 n. 요구; 수요,demand demands demanding demanded
+10,10,description,n. 설명(서),description descriptions descriptioning descriptioned
+11,11,eligibility,"n. 적격, 자격",eligibility eligibilities eligibilitying eligibilitied
+12,12,exchange,v. 교환하다,exchange exchanges exchanging exchanged
+13,13,expire,"v. 만료되다, 만기되다",expire expires expiring expired
+14,14,expiration,"n. 만료, 만기, 종결",expiration expirations expirationing expirationed
+15,15,flaw,"n. 결점, 결함",flaw flaws flawing flawed
+16,16,guarantee,v. 보장하다 n. 품질 보증서,guarantee guarantees guaranteeing guaranteed
+17,17,insurance,n. 보험(금),insurance insurances insurancing insuranced
+18,18,malfunction,"v. 제대로 작동하지 않다 n. 고장, 기능 불량",malfunction malfunctions malfunctioning malfunctioned
+19,19,perfectly,adv. 완벽하게,perfectly perfectlies perfectlying perfectlied
+20,20,period,n. 기간,period periods perioding perioded
+21,21,rebate,"n. (초과 지불에 대한) 환불, 환급",rebate rebates rebating rebated
+22,22,receipt,n. 영수증,receipt receipts receipting receipted
+23,23,refund,v. 환불하다 n. 환불(금),refund refunds refunding refunded
+24,24,registration,"n. 등록, 신고",registration registrations registrationing registrationed
+25,25,reliable,adj. 믿을 수 있는,reliable reliables reliabling reliabled
+26,26,repair,"v. 수리[보수]하다 n. 수리, 수선",repair repairs repairing repaired
+27,27,replacement,"n. 교체, 교환",replacement replacements replacementing replacemented
+28,28,restock,v. 다시 채우다[보충하다],restock restocks restocking restocked
+29,29,retailer,"n. 소매업체, 소매업자",retailer retailers retailerring retailerred
+30,30,single,"adj. 단 하나의, 단일의",single singles singling singled
+31,31,solidify,"v. 굳히다, 확고히 하다",solidify solidifies solidifying solidified
+32,32,status,n. 상태; 지위,statu status statuing statued
+33,33,unrivaled,adj. 경쟁자가 없는,unrivale unrivales unrivaling unrivaled
+34,34,warranty,n. 품질 보증서,warranty warranties warrantying warrantied
+35,35,accountable,adj. 책임이 있는,accountable accountables accountabling accountabled
+36,36,apologize,v. 사과하다,apologize apologizes apologizing apologized
+37,37,charge,v. 청구하다 n. 요금,charge charges charging charged
+38,38,client,"n. 의뢰인, 고객",client clients clienting cliented
+39,39,complaint,"n. 불만, 불평",complaint complaints complainting complainted
+40,40,complain,v. 불평하다,complain complains complaining complained
+41,41,compliment,v. 칭찬하다 n. 칭찬,compliment compliments complimenting complimented
+42,42,consider,v. 고려하다,consider considers considering considered
+43,43,considerable,adj. 상당한,considerable considerables considerabling considerabled
+44,44,considerate,"adj. 사려 깊은, 배려하는",considerate considerates considerating considerated
+45,45,consumer,n. 소비자,consumer consumers consumerring consumerred
+46,46,convince,v. 확신시키다,convince convinces convincing convinced
+47,47,delighted,adj. 아주 기뻐하는,delight delights delighting delighted
+48,48,extension,"n. 내선, 구내전화; 연장, 확대",extension extensions extensioning extensioned
+49,49,flexibility,n. 융통성; 유연성,flexibility flexibilities flexibilitying flexibilitied
+50,50,helpful,"adj. 도움이 되는, 유용한",helpful helpfuls helpfulling helpfulled
+51,51,hesitate,"v. 주저하다, 망설이다",hesitate hesitates hesitating hesitated
+52,52,inconvenience,"n. 불편, 애로 사항",inconvenience inconveniences inconveniencing inconvenienced
+53,53,informative,adj. 유익한,informative informatives informativing informatived
+54,54,order,v. 주문하다 n. 주문,order orders ordering ordered
+55,55,reasonable,adj. (가격 등이) 합리적인,reasonable reasonables reasonabling reasonabled
+56,56,recommendation,"n. 추천, 권고",recommendation recommendations recommendationing recommendationed
+57,57,representative,n. 직원; 대표(자),representative representatives representativing representatived
+58,58,request,"n. 요구, 요청 v. 요청하다",request requests requesting requested
+59,59,serve,"v. (상품, 서비스를) 제공하다",serve serves serving served
+60,60,testimonial,"n. 추천서, 추천의 글",testimonial testimonials testimonialing testimonialed
+61,61,obligated,adj. ~할 의무가 있는,obligate obligates obligating obligated
+62,62,bill,v. 청구서를 보내다,bill bills billing billed
+63,63,capacity,"n. 용량, 수용력",capacity capacities capacitying capacitied
+64,64,clarify,v. 명확히 (말)하다,clarify clarifies clarifying clarified
+65,65,contact,v. 연락하다,contact contacts contacting contacted
+66,66,counterfeit,"adj. 위조의, 모조의 n. 모조품 v. 위조하다",counterfeit counterfeits counterfeiting counterfeited
+67,67,counterpart,n. 상대,counterpart counterparts counterparting counterparted
+68,68,deliver,v. 배달하다,deliver delivers delivering delivered
+69,69,delivery,n. 배달,delivery deliveries deliverying deliveried
+70,70,depart,v. 출발하다,depart departs departing departed
+71,71,departure,n. 출발,departure departures departuring departured
+72,72,despite,prep. ~에도 불구하고,despite despites despiting despited
+73,73,discontinue,v. 중단하다,discontinue discontinues discontinuing discontinued
+74,74,discount,n. 할인,discount discounts discounting discounted
+75,75,disruption,"n. 혼란, 중단",disruption disruptions disruptioning disruptioned
+76,76,dissatisfaction,n. 불만,dissatisfaction dissatisfactions dissatisfactioning dissatisfactioned
+77,77,dissatisfy,v. 불만을 느끼게 하다,dissatisfy dissatisfies dissatisfying dissatisfied
+78,78,experience,"v. 겪다, 경험하다",experience experiences experiencing experienced
+79,79,frustrating,adj. 불만스러운,frustrate frustrates frustrating frustrated
+80,80,inconsistency,"n. 불일치, 모순",inconsistency inconsistencies inconsistencying inconsistencied
+81,81,invalid,adj. 무효의,invalid invalids invaliding invalided
+82,82,invoice,n. 송장,invoice invoices invoicing invoiced
+83,83,itemized,adj. 항목별로 구분한,itemize itemizes itemizing itemized
+84,84,itemize,"v. 항목별로 적다, 명세서를 작성하다",itemize itemizes itemizing itemized
+85,85,liability,n. 법적 책임; 부채,liability liabilities liabilitying liabilitied
+86,86,regarding,prep. ~에 관하여,regard regards regarding regarded
+87,87,reserve,v. 예약하다,reserve reserves reserving reserved
+88,88,reservation,n. 예약,reservation reservations reservationing reservationed
+89,89,return,"v. 돌려주다, 반납하다",return returns returning returned
+90,90,ship,v. 수송하다,ship ships shipping shipped
+91,91,shipment,"n. 수송, 배송",shipment shipments shipmenting shipmented
+92,92,unavailable,adj. 이용할 수 없는,unavailable unavailables unavailabling unavailabled
+93,93,understanding,n. 이해,understand understands understanding understood
+94,94,understand,v. 이해하다,understand understands understanding understood
+95,95,unlikely,adj. ~할 것 같지 않은,unlikely unlikelies unlikelying unlikelied
+96,96,unpleasant,adj. 불쾌한,unpleasant unpleasants unpleasanting unpleasanted
+97,97,urge,"v. 촉구하다, 강력히 얘기하다",urge urges urging urged
+98,98,withdraw,v. (돈을) 인출하다; 철회하다,withdraw withdraws withdrawing withdrew withdrawn
+99,99,withdrawal,n. 인출; 회수,withdrawal withdrawals withdrawalling withdrawalled
+100,100,appraisal,"n. 평가, 판단",appraisal appraisals appraisalling appraisalled
+101,101,appreciate,v. 감상하다,appreciate appreciates appreciating appreciated
+102,102,comment,"n. 논평, 언급",comment comments commenting commented
+103,103,confidential,"adj. 기밀의, 비밀의",confidential confidentials confidentialing confidentialed
+104,104,develop,v. 개발하다,develop develops developing developed
+105,105,development,n. 개발,development developments developmenting developmented
+106,106,essential,adj. 필수적인,essential essentials essentialing essentialed
+107,107,evaluation,n. 평가,evaluation evaluations evaluationing evaluationed
+108,108,evaluate,v. 평가하다,evaluate evaluates evaluating evaluated
+109,109,excellent,"adj. 훌륭한, 탁월한",excellent excellents excellenting excellented
+110,110,fair,adj. 괜찮은; 공정한,fair fairs fairing faired
+111,111,feedback,n. 피드백,feedback feedbacks feedbacking feedbacked
+112,112,indicate,v. 나타내다,indicate indicates indicating indicated
+113,113,individual,n. 개인 adj. 개개의,individual individuals individualing individualed
+114,114,information,n. 정보,information informations informationing informationed
+115,115,interview,n. 면접 v. 면접을 보다,interview interviews interviewing interviewed
+116,116,notify,"v. 알리다, 통지하다",notify notifies notifying notified
+117,117,participant,n. 참가자,participant participants participanting participanted
+118,118,poor,"adj. 좋지 못한, 형편없는",poor poors pooring poored
+119,119,questionnaire,n. 설문지,questionnaire questionnaires questionnairing questionnaired
+120,120,relevant,"adj. 관련 있는, 적절한",relevant relevants relevanting relevanted
+121,121,required,adj. 필수의,require requires requiring required
+122,122,response,"n. 대답, 응답",response responses responsing responsed
+123,123,respondent,n. 응답자,respondent respondents respondenting respondented
+124,124,sample,"v. 시식하다, 시도해 보다",sample samples sampling sampled
+125,125,satisfy,v. 만족시키다,satisfy satisfies satisfying satisfied
+126,126,satisfaction,n. 만족,satisfaction satisfactions satisfactioning satisfactioned
+127,127,solely,adv. 오로지,solely solelies solelying solelied
+128,128,somewhat,"adv. 약간, 다소",somewhat somewhats somewhatting somewhatted
+129,129,standard,"n. 기준, 표준 adj. 보통의",standard standards standarding standarded
+130,130,suggestion,n. 제안,suggestion suggestions suggestioning suggestioned
+131,131,suggest,v. 제안하다,suggest suggests suggesting suggested
+132,132,suppose,"v. 가정하다, ~라고 생각하다",suppose supposes supposing supposed
+133,133,survey,n. 설문 조사 v. 설문 조사하다,survey surveys surveying surveyed
+134,134,testing,"n. 테스트, 검사",test tests testing tested
+135,135,trial,"n. 시험, 실험",trial trials trialing trialed
+136,136,additional,adj. 추가의,additional additionals additionalling additionalled
+137,137,add,"v. 더하다, 추가하다",add adds adding added
+138,138,appealing,"adj. 흥미로운, 매력적인",appeal appeals appealing appealed
+139,139,beneficiary,n. 수혜자,beneficiary beneficiaries beneficiarying beneficiaried
+140,140,benefit,n. 혜택,benefit benefits benefiting benefited
+141,141,competitive,adj. 경쟁력 있는,competitive competitives competitiving competitived
+142,142,complimentary,adj. 무료의,complimentary complimentaries complimentarying complimentaried
+143,143,coupon,"n. 쿠폰, 할인권",coupon coupons couponning couponned
+144,144,feature,v. 특별히 포함하다 n. 특징,feature features featuring featured
+145,145,form,"n. 양식, 서식 v. 구성하다",form forms forming formed
+146,146,goods,"n. 상품, 제품",good goods gooding gooded
+147,147,bulk,n. 대량(구매),bulk bulks bulking bulked
+148,148,join,v. 가입하다,join joins joining joined
+149,149,merchandise,n. 상품,merchandise merchandises merchandising merchandised
+150,150,offer,"v. 제공하다 n. 제공, 할인",offer offers offering offered
+151,151,price,"n. 값, 가격",price prices pricing priced
+152,152,promotional,adj. 홍보의,promotional promotionals promotionalling promotionalled
+153,153,promote,v. 홍보하다,promote promotes promoting promoted
+154,154,purchase,"v. 구매하다 n. 구입, 구매(한 것)",purchase purchases purchasing purchased
+155,155,range,n. 범위 v. (범위가 ~에) 이르다,range ranges ranging ranged
+156,156,receive,v. 받다,receive receives receiving received
+157,157,reduced,adj. 할인된,reduce reduces reducing reduced
+158,158,referral,"n. 소개, 위탁",referral referrals referralling referralled
+159,159,refundable,adj. 환불 가능한,refundable refundables refundabling refundabled
+160,160,register,v. 등록하다,register registers registering registered
+161,161,reward,n. 보상,reward rewards rewarding rewarded
+162,162,subscribe,"v. 구독하다, 가입하다",subscribe subscribes subscribing subscribed
+163,163,subscription,n. 구독,subscription subscriptions subscriptioning subscriptioned
+164,164,subscriber,n. 구독자,subscriber subscribers subscriberring subscriberred
+165,165,valid,"adj. 유효한, 타당한",valid valids validding validded
+166,166,voucher,"n. 할인권, 상품권",voucher vouchers voucherring voucherred
+167,167,applicant,n. 지원자,applicant applicants applicanting applicanted
+168,168,application,"n. 지원, 신청",application applications applicationing applicationed
+169,169,asset,"n. 자산, 재원",asset assets assetting assetted
+170,170,candidate,"n. 지원자, 후보자",candidate candidates candidating candidated
+171,171,career,"n. 경력, 직장 생활",career careers careering careered
+172,172,certificate,"n. 증서, 증명서",certificate certificates certificating certificated
+173,173,clerical,adj. 사무직의,clerical clericals clericalling clericalled
+174,174,degree,n. 학위,degree degrees degreeing degreeed
+175,175,diploma,n. 졸업 증서,diploma diplomas diplomaing diplomaed
+176,176,employ,v. 고용하다,employ employs employing employed
+177,177,employer,n. 고용주,employer employers employering employered
+178,178,employee,"n. 고용인, 직원",employee employees employeeing employeeed
+179,179,employment,"n. 채용, 취업",employment employments employmenting employmented
+180,180,familiarity,"n. 친숙함, 익숙함",familiarity familiarities familiaritying familiaritied
+181,181,experienced,a. 경험있는,experience experiences experiencing experienced
+182,182,ideal,adj. 이상적인,ideal ideals idealing idealed
+183,183,managerial,"adj. 경영의, 관리의",managerial managerials managerialing managerialed
+184,184,newcomer,n. 신입사원,newcomer newcomers newcomerring newcomerred
+185,185,pension,n. 연금,pension pensions pensioning pensioned
+186,186,personnel,n. 직원(들); 인사과,personnel personnels personnelling personnelled
+187,187,position,"n. 직위, 직책",position positions positioning positioned
+188,188,proficiency,"n. 숙련, 능숙",proficiency proficiencies proficiencying proficiencied
+189,189,qualified,adj. 자격을 갖춘,qualify qualifies qualifying qualified
+190,190,qualifications,n. 자격 요건,qualification qualifications qualificationing qualificationed
+191,191,recruit,n. 모집 v. 채용하다,recruit recruits recruiting recruited
+192,192,reference,n. 추천서,reference references referencing referenced
+193,193,requirement,"n. 요건, 필수 조건",requirement requirements requirementing requiremented
+194,194,wage,n. 임금,wage wages waging waged
+195,195,accomplishment,"n. 업적, 공적",accomplishment accomplishments accomplishmenting accomplishmented
+196,196,appoint,"v. 임명하다, 지명하다",appoint appoints appointing appointed
+197,197,appraise,v. (업무를) 평가하다,appraise appraises appraising appraised
+198,198,authorize,"v. 재가하다, 권한을 부여하다",authorize authorizes authorizing authorized
+199,199,demote,"v. 강등시키다, 좌천시키다",demote demotes demoting demoted
+200,200,dependable,adj. 믿음직한 (= reliable),dependable dependables dependabling dependabled
+201,201,dismiss,v. 해고하다,dismiss dismisses dismissing dismissed
+202,202,dismissal,n. 해고,dismissal dismissals dismissalling dismissalled
+203,203,empower,v. 권한을 주다,empower empowers empowering empowered
+204,204,expertise,n. 전문 지식[기술],expertise expertises expertising expertised
+205,205,feat,"n. 위업, 업적 (= achievement)",feat feats feating feated
+206,206,honorable,"adj. 고결한, 명예로운",honorable honorables honorabling honorabled
+207,207,industrious,"adj. 근면한 (= hardworking, diligent)",industriou industrious industriouing industrioued
+208,208,leadership,"n. 지도력, 통솔력",leadership leaderships leadershipping leadershipped
+209,209,mandatory,adj. 의무적인 (= compulsory),mandatory mandatories mandatorying mandatoried
+210,210,nominate,"v. 추천하다, 지명하다",nominate nominates nominating nominated
+211,211,praise,v. 칭찬하다 n. 칭찬,praise praises praising praised
+212,212,predecessor,n. 전임자,predecessor predecessors predecessorring predecessorred
+213,213,promotion,n. 승진,promotion promotions promotioning promotioned
+214,214,recognition,n. 인정,recognition recognitions recognitioning recognitioned
+215,215,recognize,v. 인정하다,recognize recognizes recognizing recognized
+216,216,reinstate,v. 복귀시키다,reinstate reinstates reinstating reinstated
+217,217,resign,"v. 사임하다, 사직하다",resign resigns resigning resigned
+218,218,resourceful,"adj. 수단이 좋은, 기지가 있는",resourceful resourcefuls resourcefulling resourcefulled
+219,219,retirement,"n. 은퇴, 퇴직",retirement retirements retirementing retiremented
+220,220,retire,"v. 은퇴하다, 퇴직하다",retire retires retiring retired
+221,221,retiree,n. 퇴직자,retiree retirees retireeing retireeed
+222,222,skilled,adj. 능숙한,skil skils skilling skilled
+223,223,successor,"n. 후임자, 계승자",successor successors successorring successorred
+224,224,tenure,n. 재임 기간,tenure tenures tenuring tenured
+225,225,transfer,v. 전근 가다,transfer transfers transferring transferred
+226,226,underestimate,v. 과소평가하다,underestimate underestimates underestimating underestimated
+227,227,accommodations,n. 숙박시설,accommodation accommodations accommodationing accommodationed
+228,228,accountant,n. 회계사,accountant accountants accountanting accountanted
+229,229,airfare,n. 항공료,airfare airfares airfaring airfared
+230,230,anticipate,v. 예상하다,anticipate anticipates anticipating anticipated
+231,231,approve,v. 승인하다,approve approves approving approved
+232,232,approval,n. 승인,approval approvals approvalling approvalled
+233,233,authorization,"n. 허가, 인가",authorization authorizations authorizationing authorizationed
+234,234,budget,n. 예산,budget budgets budgeting budgeted
+235,235,cost-effective,adj. 비용 효율이 높은,cost-effective cost-effectives cost-effectiving cost-effectived
+236,236,cut,"n. 삭감 v. 삭감하다, 줄이다",cut cuts cutting
+237,237,estimate,n. 견적(서) v. 추산하다,estimate estimates estimating estimated
+238,238,exceed,"v. 초과하다, 넘어서다",exceed exceeds exceeding exceeded
+239,239,figure,"n. 수치, 숫자",figure figures figuring figured
+240,240,handle,"v. 다루다, 처리하다",handle handles handling handled
+241,241,include,v. 포함하다,include includes including included
+242,242,incur,v. 초래하다,incur incurs incurring incurred
+243,243,issue,v. 발행하다,issue issues issuing issued
+244,244,itinerary,n. (여행) 일정표,itinerary itineraries itinerarying itineraried
+245,245,mistakenly,"adv. 잘못하여, 실수로",mistakenly mistakenlies mistakenlying mistakenlied
+246,246,payment,n. 납입금,payment payments paymenting paymented
+247,247,payroll,n. 급여,payroll payrolls payrolling payrolled
+248,248,prepaid,"adj. 선납된, 선불된",prepay prepays prepaying prepaid
+249,249,procedure,"n. 절차, 방법",procedure procedures proceduring procedured
+250,250,process,v. 처리하다 n. 과정; 공정,process processes processing processed
+251,251,raise,"v. 올리다, 인상하다",raise raises raising raised
+252,252,reimbursement,"n. 변제, 상환",reimbursement reimbursements reimbursementing reimbursemented
+253,253,report,"v. 보고하다, 알리다",report reports reporting reported
+254,254,settlement,"n. 지불, 계산; 합의",settlement settlements settlementing settlemented
+255,255,submit,v. 제출하다,submit submits submitting submitted
+256,256,substantial,adj. 상당한 (양의),substantial substantials substantialing substantialed
+257,257,cancel,v. 취소하다,cancel cancels cancelling cancelled
+258,258,cause,"n. 명분, 목적; 원인, 이유",cause causes causing caused
+259,259,change,"v. 바꾸다, 수정하다 n. 변화",change changes changing changed
+260,260,commitment,"n. 약속, 전념",commitment commitments commitmenting commitmented
+261,261,confirm,v. 확인해 주다,confirm confirms confirming confirmed
+262,262,confirmation,n. 확인,confirmation confirmations confirmationing confirmationed
+263,263,cooperate,v. 협력하다,cooperate cooperates cooperating cooperated
+264,264,cooperation,"n. 협력, 협조",cooperation cooperations cooperationing cooperationed
+265,265,engagement,n. 약속; 공적인 업무,engagement engagements engagementing engagemented
+266,266,ensure,v. 반드시 ~하게하다,ensure ensures ensuring ensured
+267,267,flexible,"adj. 융통성이 있는, 유연한",flexible flexibles flexibling flexibled
+268,268,further,adj. 추가의 adv. 더 (멀리),further furthers furthering furthered
+269,269,guideline,"n. 가이드라인, 지침",guideline guidelines guidelining guidelined
+270,270,install,v. 설치하다,install instals installing installed
+271,271,installation,n. 설치,installation installations installationing installationed
+272,272,instead,prep. ~ 대신에,instead insteads insteading insteaded
+273,273,listing,"n. 리스트, 명단",list lists listing listed
+274,274,list,"n. 리스트, 명단 v. 목록을 작성하다",list lists listing listed
+275,275,measures,"n. 방안, 방법, 조치",measure measures measuring measured
+276,276,notification,"n. 알림, 공지",notification notifications notificationing notificationed
+277,277,observe,v. 준수하다,observe observes observing observed
+278,278,participate,v. 참가하다,participate participates participating participated
+279,279,participation,n. 참가,participation participations participationing participationed
+280,280,postpone,"v. 미루다, 연기하다",postpone postpones postponing postponed
+281,281,reach,v. ~에게 연락하다,reach reaches reaching reached
+282,282,regret,v. 안타깝게 생각하다,regret regrets regretting regretted
+283,283,remind,v. 상기시켜주다,remind reminds reminding reminded
+284,284,reschedule,v. 일정을 변경하다,reschedule reschedules rescheduling rescheduled
+285,285,safety,n. 안전(성),safety safeties safetying safetied
+286,286,session,n. (특정 활동) 시간; 회의,session sessions sessioning sessioned
+287,287,unexpected,adj. 예기치 못한,unexpect unexpects unexpecting unexpected
+288,288,unforeseen,"adj. 뜻밖의, 예측하지 못한",unforeseen unforeseens unforeseening unforeseened
+289,289,update,"n. 최신정보 v. 업데이트하다, 갱신하다",update updates updating updated
+290,290,accurate,adj. 정확한,accurate accurates accurating accurated
+291,291,attachment,"n. 부착(물), 첨부물",attachment attachments attachmenting attachmented
+292,292,attention,"n. 주의, 주목",attention attentions attentioning attentioned
+293,293,attentive,adj. 주의를 기울이는,attentive attentives attentiving attentived
+294,294,attire,"n. 의복, 복장",attire attires attiring attired
+295,295,challenging,adj. 도전을 요하는,challenge challenges challenging challenged
+296,296,colleague,n. 동료,colleague colleagues colleagueing colleagueed
+297,297,commuter,n. 통근자,commuter commuters commuterring commuterred
+298,298,demanding,"adj. 힘든, 까다로운",demand demands demanding demanded
+299,299,document,"n. 서류, 문서",document documents documenting documented
+300,300,documentation,n. 증빙 서류,documentation documentations documentationing documentationed
+301,301,duty,"n. 직무, 의무",duty duties dutying dutied
+302,302,facilitate,v. 가능[용이]하게 하다,facilitate facilitates facilitating facilitated
+303,303,generate,v. 발생시키다,generate generates generating generated
+304,304,momentum,"n. 탄력, 가속도",momentum momentums momentumming momentummed
+305,305,motivate,v. 동기를 부여하다,motivate motivates motivating motivated
+306,306,operate,"v. 조작하다, 가동하다",operate operates operating operated
+307,307,paperwork,n. 문서 업무,paperwork paperworks paperworking paperworked
+308,308,productivity,n. 생산성,productivity productivities productivitying productivitied
+309,309,refreshing,"adj. 신선한, 원기를 북돋우는",refresh refreshes refreshing refreshed
+310,310,supervisor,n. 관리자,supervisor supervisors supervisorring supervisorred
+311,311,supervise,v. 관리하다,supervise supervises supervising supervised
+312,312,workforce,n. 인력,workforce workforces workforcing workforced
+313,313,workplace,"n. 직장, 일터",workplace workplaces workplacing workplaced
+314,314,acknowledge,v. 인정하다,acknowledge acknowledges acknowledging acknowledged
+315,315,anniversary,n. 기념일,anniversary anniversaries anniversarying anniversaried
+316,316,award,"n. 상, 상패 v. 수여하다, 주다",award awards awarding awarded
+317,317,banquet,n. 연회,banquet banquets banqueting banqueted
+318,318,celebration,n. 기념 행사,celebration celebrations celebrationing celebrationed
+319,319,citation,n. 표창장; 인용문,citation citations citationing citationed
+320,320,commemorate,v. 기념하다,commemorate commemorates commemorating commemorated
+321,321,congratulate,v. 축하하다,congratulate congratulates congratulating congratulated
+322,322,convene,"v. 회합하다, 소집하다",convene convenes convening convened
+323,323,dedication,"n. 헌신, 전념",dedication dedications dedicationing dedicationed
+324,324,encourage,"v. 격려하다, 장려하다",encourage encourages encouraging encouraged
+325,325,entertainment,n. 오락; 접대,entertainment entertainments entertainmenting entertainmented
+326,326,enthusiastic,adj. 열정적인,enthusiastic enthusiastices enthusiasticking enthusiasticked
+327,327,excellence,"n. 뛰어남, 탁월함",excellence excellences excellencing excellenced
+328,328,exemplary,"adj. 모범적인, 본보기가 되는",exemplary exemplaries exemplarying exemplaried
+329,329,grateful,"adj. 고마워하는, 감사하는",grateful gratefuls gratefulling gratefulled
+330,330,gratitude,"n. 감사, 고마움",gratitude gratitudes gratituding gratituded
+331,331,host,v. 개최하다,host hosts hosting hosted
+332,332,impressive,adj. 인상적인,impressive impressives impressiving impressived
+333,333,inspire,"v. 고무시키다, 영감을 주다",inspire inspires inspiring inspired
+334,334,inspiring,"adj. 고무하는, 영감을 주는",inspire inspires inspiring inspired
+335,335,invitation,n. 초대(장),invitation invitations invitationing invitationed
+336,336,leading,"adj. 선두의, 이끄는",lead leads leading led
+337,337,mark,v. 기념하다; 흔적을 남기다,mark marks marking marked
+338,338,morale,"n. 의욕, 사기",morale morales moraling moraled
+339,339,regard,"v. 여기다, 간주하다",regard regards regarding regarded
+340,340,renowned,adj. 유명한,renown renowns renowning renowned
+341,341,respectively,"adv. 각자, 각각, 제각기",respectively respectivelies respectivelying respectivelied
+342,342,acquisition,n. 인수,acquisition acquisitions acquisitioning acquisitioned
+343,343,acquire,"v. 인수하다, 얻다",acquire acquires acquiring acquired
+344,344,affect,v. 영향을 미치다,affect affects affecting affected
+345,345,announce,"v. 발표하다, 알리다",announce announces announcing announced
+346,346,announcement,n. 공지,announcement announcements announcementing announcemented
+347,347,combine,v. 결합하다,combine combines combining combined
+348,348,agreement,n. 합의,agreement agreements agreementing agreemented
+349,349,competition,n. 경쟁,competition competitions competitioning competitioned
+350,350,competitiveness,n. 경쟁력,competitivenes competitiveness competitivenessing competitivenessed
+351,351,compete,v. 경쟁하다,compete competes competing competed
+352,352,concern,"n. 우려, 걱정",concern concerns concerning concerned
+353,353,confront,"v. 맞서다, 직면하다",confront confronts confronting confronted
+354,354,dominate,v. 지배하다,dominate dominates dominating dominated
+355,355,efficient,adj. 효율적인,efficient efficients efficienting efficiented
+356,356,eliminate,"v. 없애다, 제거하다",eliminate eliminates eliminating eliminated
+357,357,emerge,"v. 부상하다, 부각되다",emerge emerges emerging emerged
+358,358,established,adj. 확립된; 확고히 자리를 잡은,establish establishes establishing established
+359,359,expenditure,n. 지출; 비용; 소비,expenditure expenditures expendituring expenditured
+360,360,formation,"n. 형성; 대형, 편대",formation formations formationing formationed
+361,361,found,v. 설립하다,find finds finding found
+362,362,bankrupt,n. 파산,bankrupt bankrupts bankrupting bankrupted
+363,363,independent,"adj. 독립된, 독자적인",independent independents independenting independented
+364,364,integrate,v. 통합시키다,integrate integrates integrating integrated
+365,365,merger,n. 합병,merger mergers mergerring mergerred
+366,366,officially,adv. 공식적으로,officially officiallies officiallying officiallied
+367,367,negotiation,n. 협상,negotiation negotiations negotiationing negotiationed
+368,368,operation,n. 사업,operation operations operationing operationed
+369,369,outstanding,"adj. 뛰어난, 걸출한",outstand outstands outstanding outstood
+370,370,redundancy,n. 여분; 잉여 인원,redundancy redundancies redundancying redundancied
+371,371,resource,n. 자원,resource resources resourcing resourced
+372,372,restructure,n. 구조 조정하다,restructure restructures restructuring restructured
+373,373,statement,"n. 성명(서), 진술(서)",statement statements statementing statemented
+374,374,takeover,n. 기업[경영권] 인수,takeover takeovers takeoverring takeoverred
+375,375,upcoming,"adj. 다가오는, 곧 있을",upcome upcomes upcoming upcomed
+376,376,alteration,"n. 개조, 변화",alteration alterations alterationing alterationed
+377,377,celebrate,v. 기념[축하]하다,celebrate celebrates celebrating celebrated
+378,378,complicated,adj. 복잡한,complicate complicates complicating complicated
+379,379,consent,"n. 동의, 합의 v. 동의하다",consent consents consenting consented
+380,380,current,adj. 현재의,current currents currenting currented
+381,381,currently,"adv. 현재, 지금",currently currentlies currentlying currentlied
+382,382,determine,v. 결정하다,determine determines determining determined
+383,383,diversified,"adj. 다각화된, 다양한",diversify diversifies diversifying diversified
+384,384,enhance,v. 향상시키다,enhance enhances enhancing enhanced
+385,385,enlarge,v. 확장하다,enlarge enlarges enlarging enlarged
+386,386,expand,v. 확장하다,expand expands expanding expanded
+387,387,expansion,n. 확장,expansion expansions expansioning expansioned
+388,388,finalize,"v. 마무리짓다, 완결하다",finalize finalizes finalizing finalized
+389,389,headquarters,n. 본사,headquarter headquarters headquarterring headquarterred
+390,390,imperative,"adj. 반드시 해야 하는, 긴요한",imperative imperatives imperativing imperatived
+391,391,initial,"adj. 처음의, 초기의",initial initials initialling initialled
+392,392,launch,v. 착수하다,launch launches launching launched
+393,393,location,"n. 위치, 장소, 곳",location locations locationing locationed
+394,394,move,v. 옮기다; 진행되다,move moves moving moved
+395,395,original,adj. 원래의,original originals originalling originalled
+396,396,outgrow,v. ~보다 더 커지다,outgrow outgrows outgrowing outgrew outgrown
+397,397,prosperous,"adj. 번영하는, 번창하는",prosperou prosperous prosperouing prosperoued
+398,398,relocate,"v. 이전하다, 이동하다",relocate relocates relocating relocated
+399,399,reputation,"n. 명성, 평판",reputation reputations reputationing reputationed
+400,400,retain,"v. 보유하다, 유지하다",retain retains retaining retained
+401,401,selection,"n. 선별(된 것들), 선택",selection selections selectioning selectioned
+402,402,showcase,v. 소개[진열]하다 n. 공개 행사,showcase showcases showcasing showcased
+403,403,stock,v. (상품을) 갖춰 두다 n. 재고품,stock stocks stocking stocked
+404,404,timely,adj. 시기 적절한,timely timelies timelying timelied
+405,405,trade,"n. 거래, 무역 v. 거래하다, 매매하다",trade trades trading traded
+406,406,transition,"n. 변화, 추이",transition transitions transitioning transitioned
+407,407,automate,v. 자동화하다,automate automates automating automated
+408,408,automation,n. 자동화,automation automations automationing automationed
+409,409,collective,adj. 집단의; 공통의,collective collectives collectiving collectived
+410,410,component,"n. 부품, 요소",component components componenting componented
+411,411,domestic,adj. 국내의,domestic domestices domesticking domesticked
+412,412,double,v. 두 배가 되다,double doubles doubling doubled
+413,413,equipment,"n. 장비, 용품",equipment equipments equipmenting equipmented
+414,414,existing,adj. 기존의,exist exists existing existed
+415,415,facility,n. 시설,facility facilities facilitying facilitied
+416,416,inspect,"v. 점검하다, 조사하다",inspect inspects inspecting inspected
+417,417,inventory,n. 재고[물품] 목록,inventory inventories inventorying inventoried
+418,418,machinery,n. 기계,machinery machineries machinerying machineried
+419,419,manufacturer,n. 제조 업체,manufacturer manufacturers manufacturerring manufacturerred
+420,420,maximize,v. 극대화하다,maximize maximizes maximizing maximized
+421,421,output,n. 생산량,output outputs outputting outputted
+422,422,plant,n. 공장 (= factory),plant plants planting planted
+423,423,potential,adj. 잠재적인 n. 잠재 가능성,potential potentials potentialing potentialed
+424,424,proceed,v. 진행하다,proceed proceeds proceeding proceeded
+425,425,produce,v. 생산하다 (= manufacture),produce produces producing produced
+426,426,quantity,n. 양,quantity quantities quantitying quantitied
+427,427,reduction,"n. 축소, 삭감; 할인",reduction reductions reductioning reductioned
+428,428,region,n. 지역,region regions regioning regioned
+429,429,storage,"n. 저장(소), 보관(소)",storage storages storaging storaged
+430,430,streamline,v. 간소화하다,streamline streamlines streamlining streamlined
+431,431,sustainable,adj. 지속 가능한,sustainable sustainables sustainabling sustainabled
+432,432,warehouse,n. 창고,warehouse warehouses warehousing warehoused
+433,433,yield,"v. 산출하다, 생산하다",yield yields yielding yielded
+434,434,analyze,v. 분석하다,analyze analyzes analyzing analyzed
+435,435,annual,"adj. 매년의, 연례의",annual annuals annualing annualed
+436,436,debt,n. 채무,debt debts debting debted
+437,437,deduction,n. 공제,deduction deductions deductioning deductioned
+438,438,deficit,"n. 적자, 결손, 부족액",deficit deficits deficitting deficitted
+439,439,demonstrate,v. 입증하다; 시연하다,demonstrate demonstrates demonstrating demonstrated
+440,440,fiscal,"adj. 재정상의, 회계의",fiscal fiscals fiscalling fiscalled
+441,441,indicator,n. 지표,indicator indicators indicatorring indicatorred
+442,442,invest,v. 투자하다,invest invests investing invested
+443,443,investor,n. 투자자,investor investors investorring investorred
+444,444,loan,"n. 융자, 대출 v. 대출하다",loan loans loaning loaned
+445,445,loss,"n. 손실, 손해",los loss lossing lossed
+446,446,profit,"n. 이익, 수익, 이윤",profit profits profiting profited
+447,447,profitable,adj. 수익성이 있는,profitable profitables profitabling profitabled
+448,448,profitability,n. 수익성,profitability profitabilities profitabilitying profitabilitied
+449,449,record,adj. 기록적인 n. 기록,record records recording recorded
+450,450,reimburse,"v. 배상하다, 변제하다",reimburse reimburses reimbursing reimbursed
+451,451,release,"v. 공개하다, 발표하다",release releases releasing released
+452,452,revenue,"n. 수익, 세입",revenue revenues revenueing revenueed
+453,453,shareholder,n. 주주,shareholder shareholders shareholderring shareholderred
+454,454,surplus,n. 과잉; 흑자,surplu surplus surpluing surplued
+455,455,Department,n. 총무부,department departments departmenting departmented
+456,456,amenities,"n. 편의시설, 문화시설",amenity amenities amenitying amenitied
+457,457,appliance,n. (가정용) 기기,appliance appliances appliancing applianced
+458,458,artificial,adj. 인공의; 인위적인,artificial artificials artificialing artificialed
+459,459,close,"adj. 가까운, 근접한",close closes closing closed
+460,460,commercial,adj. 상업의; 민영의,commercial commercials commercialing commercialed
+461,461,compartment,"n. 구획, 칸",compartment compartments compartmenting compartmented
+462,462,floor,n. 층; 바닥,floor floors flooring floored
+463,463,furnished,adj. 가구가 비치된,furnish furnishes furnishing furnished
+464,464,furnish,v. (가구를) 비치하다,furnish furnishes furnishing furnished
+465,465,landlord,"n. 주인, 임대주, 임대 회사",landlord landlords landlording landlorded
+466,466,lease,n. 임대차 계약 v. 임대[임차]하다,lease leases leasing leased
+467,467,locate,v. ~의 정확한 위치를 찾아내다,locate locates locating located
+468,468,modern,"adj. 현대의, 현대적인",modern moderns moderning moderned
+469,469,multipurpose,adj. 다목적의,multipurpose multipurposes multipurposing multipurposed
+470,470,occupy,"v. 차지하다, 건물을 사용하다",occupy occupies occupying occupied
+471,471,overlook,v. 내려다보다,overlook overlooks overlooking overlooked
+472,472,ownership,n. 소유(권),ownership ownerships ownershipping ownershipped
+473,473,property,"n. 부동산, 재산",property properties propertying propertied
+474,474,reconstruct,v. 재건하다,reconstruct reconstructs reconstructing reconstructed
+475,475,renew,v. 갱신하다,renew renews renewing renewed
+476,476,renovate,v. 개조하다,renovate renovates renovating renovated
+477,477,renovation,n. 개조,renovation renovations renovationing renovationed
+478,478,rent,"v. 세내다[임차하다] n. 집세, 방세, 지대, 임차료",rent rents renting rented
+479,479,residence,"n. 주택, 거주지",residence residences residencing residenced
+480,480,resident,n. 거주자,resident residents residenting residented
+481,481,residential,adj. 주거의; 거주하기 좋은,residential residentials residentialing residentialed
+482,482,tenant,"n. 세입자, 임차인",tenant tenants tenanting tenanted
+483,483,tour,"n. 방문, 견학",tour tours touring toured
+484,484,transform,v. 완전히 바꿔 놓다; 변형시키다,transform transforms transforming transformed
+485,485,unit,n. 한 가구,unit units unitting unitted
+486,486,view,n. 경관,view views viewing viewed
+487,487,architecture,"n. 건축술, 건축 양식",architecture architectures architecturing architectured
+488,488,architectural,adj. 건축의,architectural architecturals architecturalling architecturalled
+489,489,blueprint,n. 청사진,blueprint blueprints blueprinting blueprinted
+490,490,characterize,v. ~의 특징이 되다,characterize characterizes characterizing characterized
+491,491,construction,"n. 건설, 공사",construction constructions constructioning constructioned
+492,492,construct,v. 건설하다,construct constructs constructing constructed
+493,493,draw,"v. 끌다, 끌어들이다",draw draws drawing drew drawn
+494,494,elaborate,adj. 정교한; 공을 들인,elaborate elaborates elaborating elaborated
+495,495,entrance,n. 입구,entrance entrances entrancing entranced
+496,496,extend,v. 연장하다; 확장하다,extend extends extending extended
+497,497,exterior,adj. 외부의,exterior exteriors exterioring exteriored
+498,498,fa?ade,"n. (건물의) 정면, 앞면",fa?ade fa?ades fa?ading fa?aded
+499,499,groundbreaking,adj. 획기적인,groundbreak groundbreaks groundbreaking groundbreaked
+500,500,interior,adj. 내부의,interior interiors interioring interiored
+501,501,landmark,"n. 주요 지형물, 랜드마크",landmark landmarks landmarking landmarked
+502,502,lot,"n. 부지, 구획",lot lots lotting lotted
+503,503,masterpiece,"n. 걸작, 명작",masterpiece masterpieces masterpiecing masterpieced
+504,504,modernize,v. 현대화하다,modernize modernizes modernizing modernized
+505,505,premises,n. 부지,premise premises premising premised
+506,506,preserve,v. 지키다; 보존하다,preserve preserves preserving preserved
+507,507,redesign,v. 재설계하다,redesign redesigns redesigning redesigned
+508,508,reinforce,v. 강화하다; 보강하다,reinforce reinforces reinforcing reinforced
+509,509,remodel,"v. 개조하다, 리모델링하다",remodel remodels remodeling remodeled
+510,510,repairs,n. 수리 작업,repair repairs repairing repaired
+511,511,restoration,"n. 복구, 복원",restoration restorations restorationing restorationed
+512,512,restore,v. 복원하다,restore restores restoring restored
+513,513,structure,n. 구조물,structure structures structuring structured
+514,514,undergo,"n. 겪다, 받다",undergo undergoes undergoing underwent undergone
+515,515,venue,n. 장소,venue venues venueing venueed
+516,516,wing,"n. 건물의 동, 부속 건물",wing wings winging winged
+517,517,accessible,adj. 접근할 수 있는,accessible accessibles accessibling accessibled
+518,518,alleviate,v. 완화하다,alleviate alleviates alleviating alleviated
+519,519,boulevard,n. 대로,boulevard boulevards boulevarding boulevarded
+520,520,commute,v. 통근하다 n. 통근,commute commutes commuting commuted
+521,521,congestion,n. 혼잡,congestion congestions congestioning congestioned
+522,522,crosswalk,n. 횡단보도,crosswalk crosswalks crosswalking crosswalked
+523,523,destination,"n. 행선지, 목적지",destination destinations destinationing destinationed
+524,524,detour,"n. 우회로, 돌아가는 길",detour detours detouring detoured
+525,525,expressway,n. 고속도로 (= freeway),expressway expressways expresswaying expresswayed
+526,526,impose,"v. 도입하다, 부과하다",impose imposes imposing imposed
+527,527,jammed,"adj. 꼼짝 못하는, 빽빽한",jam jams jamming jammed
+528,528,jaywalk,v. 무단 횡단하다,jaywalk jaywalks jaywalking jaywalked
+529,529,lane,n. 차선,lane lanes laning laned
+530,530,mileage,n. 주행거리,mileage mileages mileaging mileaged
+531,531,overpass,n. 고가도로 (= flyover),overpass overpasses overpassing overpassed
+532,532,pave,v. 도로를 포장하다,pave paves paving paved
+533,533,pavement,"n. 인도, 보도",pavement pavements pavementing pavemented
+534,534,pedestrian,n. 보행자,pedestrian pedestrians pedestrianing pedestrianed
+535,535,repave,v. 도로를 재포장하다,repave repaves repaving repaved
+536,536,section,n. 구간,section sections sectioning sectioned
+537,537,toll,"n. 통행료, 사용세",toll tolls tolling tolled
+538,538,tow,"v. 견인하다, 예인하다",tow tows towing towed
+539,539,transportation,"n. 수송, 운송",transportation transportations transportationing transportationed
+540,540,vehicle,"n. 차량, 탈것",vehicle vehicles vehicling vehicled
+541,541,widen,v. 넓히다,widen widens widening widened
+542,542,widening,n. 확장,widen widens widening widened
+543,543,accommodate,v. 수용하다,accommodate accommodates accommodating accommodated
+544,544,artistic,adj. 예술적인,artistic artistices artisticking artisticked
+545,545,auction,n. 경매,auction auctions auctioning auctioned
+546,546,audience,"n. 관객, 청중",audience audiences audiencing audienced
+547,547,autograph,"n. 서명, 사인 v. 서명하다",autograph autographs autographing autographed
+548,548,cast,"n. 출연자들, 배역 v. 배역을 정하다",cast casts casting
+549,549,choreography,n. 안무,choreography choreographies choreographying choreographied
+550,550,community,n. 지역사회,community communities communitying communitied
+551,551,compose,v. 작곡하다,compose composes composing composed
+552,552,conduct,v. 지휘하다,conduct conducts conducting conducted
+553,553,costume,"n. 의상, 복장",costume costumes costuming costumed
+554,554,critic,n. 평론가,critic critices criticking criticked
+555,555,debut,"n. 데뷔, 첫 출연 v. 데뷔[첫 출연]하다",debut debuts debuting debuted
+556,556,direction,n. 연출,direction directions directioning directioned
+557,557,entertain,v. 즐겁게 해주다,entertain entertains entertaining entertained
+558,558,exhibition,n. 전시(회),exhibition exhibitions exhibitioning exhibitioned
+559,559,exhibit,v. 전시하다,exhibit exhibits exhibiting exhibited
+560,560,impeccable,adj. 흠 잡을 데 없는,impeccable impeccables impeccabling impeccabled
+561,561,intermission,n. 중간 휴식시간,intermission intermissions intermissioning intermissioned
+562,562,performance,n. 공연,performance performances performancing performanced
+563,563,perform,"v. 공연하다, 연주하다",perform performs performing performed
+564,564,premiere,n. (영화의) 개봉; (연극의) 초연,premiere premieres premiering premiered
+565,565,sponsor,v. 후원하다 n. 후원자,sponsor sponsors sponsoring sponsored
+566,566,star,"v. 주연을 맡다 n. 스타, 인기 배우",star stars starring starred
+567,567,theatrical,adj. 연극[공연]의,theatrical theatricals theatricalling theatricalled
+568,568,aid,"n. 원조, 자원 v. 돕다",aid aids aiding aided
+569,569,beneficial,"adj. 유익한, 이로운",beneficial beneficials beneficialing beneficialed
+570,570,campaign,n. 캠페인 v. 캠페인을 벌이다,campaign campaigns campaigning campaigned
+571,571,charity,n. 자선 단체,charity charities charitying charitied
+572,572,charitable,adj. 자선의,charitable charitables charitabling charitabled
+573,573,collect,v. 모으다,collect collects collecting collected
+574,574,committee,n. 위원회,committee committees committeeing committeeed
+575,575,contributor,n. 후원자,contributor contributors contributorring contributorred
+576,576,contribution,n. 기부금,contribution contributions contributioning contributioned
+577,577,contribute,"v. 기부하다, 기여하다",contribute contributes contributing contributed
+578,578,dedicate,"v. 바치다, 전념하다",dedicate dedicates dedicating dedicated
+579,579,donation,n. 기부(금),donation donations donationing donationed
+580,580,donate,v. 기부하다,donate donates donating donated
+581,581,enlightening,"adj. 계몽적인, 깨우치는",enlighten enlightens enlightening enlightened
+582,582,entry,n. 입장,entry entries entrying entried
+583,583,finance,n. 자금 v. 자금을 대다,finance finances financing financed
+584,584,foundation,n. 설립; 재단,foundation foundations foundationing foundationed
+585,585,fund,v. 자금을 대다,fund funds funding funded
+586,586,funding,n. 재정 지원,fund funds funding funded
+587,587,fundraising,n. 기금 모금,fundrais fundraiss fundraising fundraised
+588,588,generous,"adj. 후한, 넉넉한",generou generous generouing generoued
+589,589,generosity,n. 너그러움,generosity generosities generositying generositied
+590,590,invite,v. 초대하다,invite invites inviting invited
+591,591,local,adj. 지역의 n. 현지인,local locals localling localled
+592,592,municipal,"adj. 지방 자치제의, 시의",municipal municipals municipalling municipalled
+593,593,patron,"n. 후원자, 고객",patron patrons patronning patronned
+594,594,philanthropic,"adj. 자선의, 인정 많은",philanthropic philanthropices philanthropicking philanthropicked
+595,595,pledge,"n. 맹세, 서약 v. 맹세[서약]하다",pledge pledges pledging pledged
+596,596,proceeds,n. 수익금,proceed proceeds proceeding proceeded
+597,597,public,"adj. 공공의 n. 대중, 일반",public publices publicking publicked
+598,598,revitalize,v. 재활성화시키다,revitalize revitalizes revitalizing revitalized
+599,599,sponsorship,"n. 후원, 협찬",sponsorship sponsorships sponsorshipping sponsorshipped
+600,600,unprecedented,adj. 전례가 없는,unprecedent unprecedents unprecedenting unprecedented
+601,601,volunteer,n. 자원봉사자 v. 자원하다,volunteer volunteers volunteering volunteered
